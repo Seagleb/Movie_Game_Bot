@@ -4,11 +4,7 @@ import time
 
 class Game(object):
     def __init__(self):
-        movie_blank, shuffled_movie, movie_answer_comparable, full_movie = Game.getPuzzle(self)
-        self.movie_blank = movie_blank
-        self.shuffled_movie = shuffled_movie
-        self.movie_answer_comparable = movie_answer_comparable
-        self.full_movie = full_movie
+        Game.newRound(self)
 
     def newRound(self):
         movie_blank, shuffled_movie, movie_answer_comparable, full_movie = Game.getPuzzle(self)
@@ -19,7 +15,6 @@ class Game(object):
         
     def getMovieList(self):
         movie_list = []
-
         with open('Movies.txt') as fp:
             for line in fp:
                 movie_list.append(line.rstrip())
@@ -54,9 +49,9 @@ class Game(object):
             return movie_blank, new_scramble, movie, input_movie
 
 
-# if __name__ == "__main__":
-#     new_game = Game()
-#     print(new_game.movie_blank)
-#     print(new_game.shuffled_movie)
-#     print(new_game.movie_answer_comparable)
-#     print(new_game.full_movie)
+if __name__ == "__main__":
+    new_game = Game()
+    print(new_game.movie_blank)
+    print(new_game.shuffled_movie)
+    print(new_game.movie_answer_comparable)
+    print(new_game.full_movie)

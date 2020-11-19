@@ -1,7 +1,7 @@
 # bot.py
 import os
 import random
-import Game
+import game
 import re
 import time
 import discord
@@ -12,7 +12,7 @@ TOKEN = os.getenv('DISCORD_TOKEN')
 GUILD = os.getenv('DISCORD_GUILD')
 
 client = discord.Client()
-game_session = Game.Game()
+game_session = game.Game()
 points = {}
 
 @client.event
@@ -30,7 +30,7 @@ async def on_ready():
 async def on_member_join(member):
     await member.create_dm()
     await member.dm_channel.send(
-        f'Hello {member.name}, welcome to Libila'
+        f'Hello {member.name}, welcome to the movie game!'
     )
 
 @client.event
@@ -56,7 +56,7 @@ async def on_message(message):
         await message.channel.send(game_session.movie_blank + '\n' + game_session.shuffled_movie)
 
     if message.content == "!giveup":
-        await message.channel.send('The answer was '+ game_session.full_movie)
+        await message.channel.send('The answer was: '+ game_session.full_movie)
         game_session.newRound()
         await message.channel.send(game_session.movie_blank + '\n' + game_session.shuffled_movie)
 

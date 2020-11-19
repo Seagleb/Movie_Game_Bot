@@ -5,39 +5,48 @@ from IPython.core.display import clear_output
 from warnings import warn
 import requests
 
+def scrapeMovies():
 
-years_url = [str(i) for i in range(1980, 2018)]
-headers = {"Accept-Language": "en-US, en;q=0.5"}
-start_time = time()
-requestint = 0
-names = []
+    years = [str(i) for i in range(1980, 2019)]
+    headers = {"Accept-Language": "en-US, en;q=0.5"}
+    start_time = time()
+    request_int = 0
+    movie_list = []
 
-for year_url in years_url:  
-    response = requests.get('http://www.imdb.com/search/title?release_date=' + year_url +
-                            '&sort=num_votes,desc&page=1', headers=headers)
-    sleep(randint(8,15))
-    requestint += 1
-    elapsed_time = time() - start_time
-    print('Request: {}; Frequency: {} requests/s'.format(requestint,
-                                                        requestint/elapsed_time))
-    clear_output(wait=True)
-    if response.status_code != 200:
-        warn('Request: {}; Status code: {}'.format(
-            requestint, response.status_code))
-    if requestint > 72:
-        warn('Number of requests was greater than expected.')
-        break
-    page_html = BeautifulSoup(response.text, 'html.parser')
-    movie_containers = page_html.find_all('div', class_='lister-item mode-advanced')
+    for year in years:  
+        response = requests.get('http://www.imdb.com/search/title?release_date='
+                                + year
+                                + '&sort=num_votes,desc&page=1', headers=headers)
+        elapsed_time = time() - start_time
+        sleep(randint(2,5))
+        request_int += 1
 
-    for movie in movie_containers:
-        name = movie.h3.a.text
-        names.append(name)
+        print('Request: {}; Year: {}; Frequency: {} requests/s'.format(request_int, year,
+                                                            request_int/elapsed_time))
+        clear_output(wait=True)
 
-#print(movie_containers)
+        if response.status_code != 200:
+            warn('Request: {}; Status code: {}'.format(
+                request_int, response.status_code))
+        if request_int > 72:
+            warn('Number of requests was greater than expected.')
+            break
 
-for name in names:
-    with open('movies.txt', 'a') as output:
-        output.write(name)
-        output.write('\n')
+        page_html = BeautifulSoup(response.text, 'html.parser')
+        movie_containers = page_html.find_all('div', class_='lister-item mode-advanced')
 
+        for movie in movie_containers:
+            movie_name = movie.h3.a.text
+            movie_list.append(movie_name)
+            
+    return movie_list
+
+def writeMovies(movie_list):
+    for name in movie_list:
+        with open('movies.txt', 'a') as output:
+            output.write(name)
+            output.write('\n')
+
+if __name__ == "__main__":
+    movie_list = scrapeMovies()
+    writeMovies(movie_list)

@@ -7,102 +7,102 @@ The Blues Brothers
 Friday the 13th
 Caddyshack
 Superman II
-The Blue Lagoon
 The Fog
+The Blue Lagoon
 The Gods Must Be Crazy
-Cannibal Holocaust
 Flash Gordon
+Cannibal Holocaust
 Ordinary People
 Cosmos
 Dressed to Kill
 Altered States
 Kagemusha
-Popeye
 The Changeling
+Popeye
 9 to 5
 Somewhere in Time
 Stir Crazy
 Private Benjamin
-Stardust Memories
 Magnum, P.I.
 American Gigolo
 The Final Countdown
+Stardust Memories
 Fame
-The Big Red One
 The Long Good Friday
 Cruising
 Inferno
+The Big Red One
 Any Which Way You Can
 Coal Miner's Daughter
 Brubaker
 City of the Living Dead
-Smokey and the Bandit II
-Atlantic City
 Prom Night
-Superman II: The Richard Donner Cut
-Who's Singin' Over There?
-Lion of the Desert
+Atlantic City
+Smokey and the Bandit II
 Maniac
-Used Cars
+Superman II: The Richard Donner Cut
+Lion of the Desert
+Who's Singin' Over There?
 Heaven's Gate
+Used Cars
 Urban Cowboy
-Breaker Morant
 The Last Metro
+Yes Minister
 Raiders of the Lost Ark
 Das Boot
 The Evil Dead
 The Road Warrior
 Escape from New York
-For Your Eyes Only
 An American Werewolf in London
+For Your Eyes Only
 The Fox and the Hound
 Halloween II
 Stripes
-Excalibur
-Time Bandits
 Friday the 13th Part 2
+Time Bandits
+Excalibur
 Chariots of Fire
 Scanners
 History of the World: Part I
 Only Fools and Horses
-Clash of the Titans
 Blow Out
+Clash of the Titans
 Porky's
 Gallipoli
 The Cannonball Run
 Heavy Metal
 The Howling
 Body Heat
-On Golden Pond
 Victory
+On Golden Pond
 Outland
 Arthur
 Thief
 Possession
-The Postman Always Rings Twice
 Christiane F.
+The Postman Always Rings Twice
 Reds
 Quest for Fire
 The Beyond
 The Final Conflict
 My Dinner with Andre
-Taps
 My Bloody Valentine
 Nighthawks
+Taps
 Southern Comfort
-The Smurfs
 The Burning
+The Smurfs
 Dragonslayer
 Mommie Dearest
 The Great Muppet Caper
 The Professional
 The House by the Cemetery
-The French Lieutenant's Woman
+The Funhouse
 Blade Runner
 E.T. the Extra-Terrestrial
 The Thing
-Gandhi
 First Blood
+Gandhi
 Rocky III
 Poltergeist
 Conan the Barbarian
@@ -110,13 +110,13 @@ TRON
 Star Trek II: The Wrath of Khan
 Tootsie
 Fast Times at Ridgemont High
-Pink Floyd: The Wall
 The King of Comedy
+Pink Floyd: The Wall
 48 Hrs.
-Fanny and Alexander
 The Dark Crystal
-Airplane II: The Sequel
+Fanny and Alexander
 An Officer and a Gentleman
+Airplane II: The Sequel
 Cheers
 Friday the 13th Part III
 Halloween III: Season of the Witch
@@ -124,26 +124,26 @@ Creepshow
 Sophie's Choice
 Annie
 The Secret of NIMH
-Blackadder
 The Verdict
+Blackadder
 Koyaanisqatsi
 Grease 2
 Fitzcarraldo
 Knight Rider
-The World According to Garp
 Firefox
+The World According to Garp
 The Last Unicorn
-'Allo 'Allo
+'Allo 'Allo!
 Vincent
-Dead Men Don't Wear Plaid
 The Beastmaster
 Tenebrae
+Dead Men Don't Wear Plaid
 The Year of Living Dangerously
 Victor Victoria
 Cat People
 Diner
-A Midsummer Night's Sex Comedy
 Missing
+A Midsummer Night's Sex Comedy
 Basket Case
 Family Ties
 Police Squad!
@@ -161,8 +161,8 @@ Risky Business
 The Outsiders
 Christine
 Superman III
-Never Say Never Again
 The Dead Zone
+Never Say Never Again
 The Right Stuff
 Terms of Endearment
 Flashdance
@@ -175,21 +175,21 @@ Twilight Zone: The Movie
 The Big Chill
 Rumble Fish
 Krull
-The Man with Two Brains
 Sleepaway Camp
+The Man with Two Brains
 Psycho II
 The Hunger
-Mr. Mom
 Nostalgia
 Local Hero
-Silkwood
+Mr. Mom
 Inspector Gadget
+Silkwood
 Blue Thunder
-Strange Brew
-He-Man and the Masters of the Universe
 Eddie Murphy: Delirious
-All the Right Moves
+He-Man and the Masters of the Universe
 Michael Jackson: Thriller
+Strange Brew
+All the Right Moves
 Merry Christmas Mr. Lawrence
 Project A
 Staying Alive
@@ -208,14 +208,14 @@ Gremlins
 The Karate Kid
 Beverly Hills Cop
 Nausicaä of the Valley of the Wind
-This Is Spinal Tap
 The NeverEnding Story
+This Is Spinal Tap
 Dune
 Police Academy
 Sixteen Candles
+Paris, Texas
 Blood Simple
 Romancing the Stone
-Paris, Texas
 Conan the Destroyer
 Star Trek III: The Search for Spock
 Footloose
@@ -227,9 +227,9 @@ Red Dawn
 2010
 Revenge of the Nerds
 Children of the Corn
+Friday the 13th: The Final Chapter
 The Natural
 Starman
-Friday the 13th: The Final Chapter
 The Last Starfighter
 Bachelor Party
 Stranger Than Paradise
@@ -238,14 +238,14 @@ The Cosby Show
 Firestarter
 Body Double
 The Toxic Avenger
+The Bounty
 The Adventures of Buckaroo Banzai Across the 8th Dimension
 Broadway Danny Rose
-The Bounty
 Miami Vice
 Birdy
 The Transformers
-The Muppets Take Manhattan
 The Adventures of Sherlock Holmes
+The Muppets Take Manhattan
 Purple Rain
 Supergirl
 Back to the Future
@@ -259,17 +259,18 @@ Mad Max Beyond Thunderdome
 Ran
 A View to a Kill
 Witness
+Clue
 Weird Science
 The Color Purple
-Clue
 Out of Africa
 Day of the Dead
-Legend
 A Nightmare on Elm Street 2: Freddy's Revenge
 Fright Night
-Cocoon
-National Lampoon's European Vacation
+Legend
 After Hours
+National Lampoon's European Vacation
+Cocoon
+Come and See
 Re-Animator
 The Return of the Living Dead
 Pale Rider
@@ -277,7 +278,6 @@ Police Academy 2: Their First Assignment
 The Jewel of the Nile
 Pee-wee's Big Adventure
 Fletch
-Come and See
 The Purple Rose of Cairo
 Teen Wolf
 Spies Like Us
@@ -287,17 +287,17 @@ Better Off Dead...
 A Room with a View
 Red Sonja
 Silverado
-Brewster's Millions
 St. Elmo's Fire
+Brewster's Millions
 MacGyver
 Friday the 13th: A New Beginning
-Real Genius
-The Golden Girls
 The Black Cauldron
-To Live and Die in L.A.
+The Golden Girls
+Real Genius
 Police Story
+To Live and Die in L.A.
 Runaway Train
-Mask
+Das Boot
 Aliens
 Platoon
 Stand by Me
@@ -306,47 +306,47 @@ Top Gun
 Blue Velvet
 The Fly
 Castle in the Sky
-Highlander
 Labyrinth
 Big Trouble in Little China
+Highlander
 The Name of the Rose
 Crocodile Dundee
 Star Trek IV: The Voyage Home
+The Karate Kid Part II
 The Color of Money
 Pretty in Pink
-The Karate Kid Part II
-¡Three Amigos!
-Hannah and Her Sisters
+Three Amigos!
 Cobra
+Hannah and Her Sisters
 Manhunter
 Little Shop of Horrors
 Short Circuit
 The Mission
-The Golden Child
-Dragon Ball
 The Money Pit
+The Golden Child
 An American Tail
 Down by Law
 Dragon Ball
 The Great Mouse Detective
 Flight of the Navigator
-Howard the Duck
-Hoosiers
 The Hitcher
-Police Academy 3: Back in Training
+Howard the Duck
 Blackadder II
+Hoosiers
+Police Academy 3: Back in Training
 Heartbreak Ridge
+Friday the 13th Part VI: Jason Lives
 The Transformers: The Movie
 9½ Weeks
-Friday the 13th Part VI: Jason Lives
 Peggy Sue Got Married
+Henry: Portrait of a Serial Killer
 ALF
 Critters
-Henry: Portrait of a Serial Killer
 Raw Deal
 Maximum Overdrive
 Sid and Nancy
 Back to School
+The Texas Chainsaw Massacre 2
 The Mosquito Coast
 Full Metal Jacket
 The Princess Bride
@@ -362,12 +362,12 @@ The Running Man
 Raising Arizona
 Good Morning, Vietnam
 The Lost Boys
-Planes, Trains & Automobiles
+Planes, Trains and Automobiles
 Empire of the Sun
 Beverly Hills Cop II
 Hellraiser
-Married... with Children
 Star Trek: The Next Generation
+Married... with Children
 The Last Emperor
 The Living Daylights
 Angel Heart
@@ -380,30 +380,30 @@ Full House
 Overboard
 Over the Top
 Moonstruck
-3 Men and a Baby
+Three Men and a Baby
 Bad Taste
 Superman IV: The Quest for Peace
-Roxanne
 Jaws: The Revenge
-Police Academy 4: Citizens on Patrol
 Blackadder the Third
+Roxanne
+Police Academy 4: Citizens on Patrol
 Withnail & I
 Adventures in Babysitting
-Masters of the Universe
 Prince of Darkness
+Masters of the Universe
 No Way Out
-Throw Momma from the Train
 Near Dark
-Dragnet
+Throw Momma from the Train
 Can't Buy Me Love
+Dragnet
 Radio Days
-Harry and the Hendersons
+*batteries not included
 Die Hard
 Rain Man
 My Neighbor Totoro
 Beetlejuice
-Cinema Paradiso
 Grave of the Fireflies
+Cinema Paradiso
 Big
 Who Framed Roger Rabbit
 Coming to America
@@ -415,11 +415,10 @@ Twins
 They Live
 Willow
 Mississippi Burning
-Heathers
-Scrooged
 Child's Play
-Cocktail
+Scrooged
 The Land Before Time
+Cocktail
 Bloodsport
 Midnight Run
 Dangerous Liaisons
@@ -427,27 +426,28 @@ Dirty Rotten Scoundrels
 Red Heat
 Young Guns
 Crocodile Dundee II
+The Last Temptation of Christ
 Working Girl
 The Adventures of Baron Munchausen
-The Last Temptation of Christ
-Frantic
 A Nightmare on Elm Street 4: The Dream Master
+Frantic
 The Big Blue
 Bull Durham
-Oliver & Company
 Halloween 4: The Return of Michael Myers
-Roseanne
+Oliver & Company
 Hellbound: Hellraiser II
-The Dead Pool
 Dead Ringers
+The Dead Pool
+Roseanne
 The Great Outdoors
-The Wonder Years
-The Unbearable Lightness of Being
 Women on the Verge of a Nervous Breakdown
+The Wonder Years
+The Vanishing
+The Unbearable Lightness of Being
+Killer Klowns from Outer Space
 Red Dwarf
 Police Academy 5: Assignment: Miami Beach
-The Vanishing
-Killer Klowns from Outer Space
+Friday the 13th Part VII: The New Blood
 Indiana Jones and the Last Crusade
 Back to the Future Part II
 Dead Poets Society
@@ -462,91 +462,91 @@ The Abyss
 Lethal Weapon 2
 National Lampoon's Christmas Vacation
 Honey, I Shrunk the Kids
-Glory
-Field of Dreams
-Bill & Ted's Excellent Adventure
 Kiki's Delivery Service
-Born on the Fourth of July
+Glory
+Bill & Ted's Excellent Adventure
+Field of Dreams
 Driving Miss Daisy
+Born on the Fourth of July
 Tango & Cash
 Licence to Kill
 Pet Sematary
-Say Anything...
-Uncle Buck
 Do the Right Thing
+Heathers
+Uncle Buck
+Say Anything...
 Look Who's Talking
 The 'Burbs
 My Left Foot
 Dragon Ball Z
 Turner & Hooch
-Major League
 Road House
+Major League
 Star Trek V: The Final Frontier
 Crimes and Misdemeanors
-Black Rain
+The Karate Kid Part III
 Kickboxer
 Sex, Lies, and Videotape
-The War of the Roses
+Black Rain
 Weekend at Bernie's
-The Karate Kid Part III
 See No Evil, Hear No Evil
 Blackadder Goes Forth
-The Killer
+The War of the Roses
 Steel Magnolias
+The Killer
 Parenthood
 Casualties of War
 A Nightmare on Elm Street 5: The Dream Child
 Lock Up
-Sea of Love
 Goodfellas
-Edward Scissorhands
 Home Alone
+Edward Scissorhands
 Back to the Future Part III
-The Godfather Part III
+The Godfather: Part III
 Die Hard 2
 Total Recall
 Pretty Woman
 Dances with Wolves
 Ghost
-The Hunt for Red October
 Misery
+The Hunt for Red October
 Predator 2
 Kindergarten Cop
-Miller's Crossing
 Rocky V
+Miller's Crossing
 Awakenings
 Tremors
 The Fresh Prince of Bel-Air
 It
-Jacob's Ladder
 Mr. Bean
+Jacob's Ladder
 Gremlins 2: The New Batch
 Teenage Mutant Ninja Turtles
+Wild at Heart
 RoboCop 2
 Flatliners
-Wild at Heart
 Days of Thunder
-La Femme Nikita
+Nikita
 Arachnophobia
 Darkman
 Dick Tracy
 Cry-Baby
-Look Who's Talking Too
 Child's Play 2
+Look Who's Talking Too
+The Witches
 Bird on a Wire
 Night of the Living Dead
 Another 48 Hrs.
-Presumed Innocent
 The Rescuers Down Under
+Presumed Innocent
 Joe Versus the Volcano
-The Witches
 Lionheart
-Law & Order
-Troll 2
-Rugrats
-Young Guns II
-Beverly Hills, 90210
 King of New York
+Rugrats
+Law & Order
+Beverly Hills, 90210
+Young Guns II
+Troll 2
 Mermaids
 The Silence of the Lambs
 Terminator 2: Judgment Day
@@ -556,8 +556,8 @@ Robin Hood: Prince of Thieves
 Cape Fear
 Point Break
 JFK
-Thelma & Louise
 The Addams Family
+Thelma & Louise
 Boyz n the Hood
 Barton Fink
 The Naked Gun 2½: The Smell of Fear
@@ -566,36 +566,36 @@ The Last Boy Scout
 The Doors
 Delicatessen
 The Fisher King
-Backdraft
 My Girl
+Backdraft
 Star Trek VI: The Undiscovered Country
 Father of the Bride
+Bill & Ted's Bogus Journey
 Fried Green Tomatoes
 What About Bob?
-Bill & Ted's Bogus Journey
 Night on Earth
-Hudson Hawk
 The Rocketeer
+Hudson Hawk
 Teenage Mutant Ninja Turtles II: The Secret of the Ooze
-Sleeping with the Enemy
 My Own Private Idaho
+Sleeping with the Enemy
 City Slickers
 Naked Lunch
 Highlander II: The Quickening
+The Double Life of Véronique
 Freddy's Dead: The Final Nightmare
 Home Improvement
-The Double Life of Véronique
 Double Impact
 Child's Play 3
 Doc Hollywood
 The Commitments
 New Jack City
 The People Under the Stairs
-L.A. Story
 Oscar
+L.A. Story
+Raise the Red Lantern
 Regarding Henry
 Frankie and Johnny
-Raise the Red Lantern
 Don't Tell Mom the Babysitter's Dead
 Drop Dead Fred
 Reservoir Dogs
@@ -614,40 +614,40 @@ The Last of the Mohicans
 Wayne's World
 The Bodyguard
 My Cousin Vinny
-Patriot Games
 Death Becomes Her
+Patriot Games
 Glengarry Glen Ross
-Dead Alive
 A League of Their Own
+Dead Alive
 Sister Act
-Universal Soldier
+Batman: The Animated Series
 Twin Peaks: Fire Walk with Me
 Malcolm X
-Batman: The Animated Series
+Universal Soldier
+Porco Rosso
 Under Siege
 White Men Can't Jump
-Porco Rosso
+Candyman
 Beethoven
 El Mariachi
-Candyman
 Far and Away
 The Mighty Ducks
-Chaplin
 The Player
-Sneakers
 A River Runs Through It
+Chaplin
+Sneakers
 The Crying Game
-Hard Boiled
 The Muppet Christmas Carol
+Hard Boiled
 Passenger 57
 Forever Young
 Honey, I Blew Up the Kid
 Of Mice and Men
 Buffy the Vampire Slayer
-Stop! Or My Mom Will Shoot
-Romper Stomper
-The Hand That Rocks the Cradle
 Bad Lieutenant
+Stop! Or My Mom Will Shoot
+The Hand That Rocks the Cradle
+X-Men: The Animated Series
 Schindler's List
 Jurassic Park
 Groundhog Day
@@ -661,42 +661,42 @@ Carlito's Way
 The X-Files
 Falling Down
 Dazed and Confused
-Demolition Man
 Sleepless in Seattle
+Demolition Man
 In the Name of the Father
 Last Action Hero
 A Bronx Tale
 Tombstone
+The Firm
 Cliffhanger
 Robin Hood: Men in Tights
-The Firm
-In the Line of Fire
-Cool Runnings
 Hocus Pocus
-Hot Shots! Part Deux
+Cool Runnings
+In the Line of Fire
 Three Colors: Blue
-The Piano
-Wayne's World 2
-The Sandlot
-The Pelican Brief
+Hot Shots! Part Deux
 Addams Family Values
+The Piano
+The Sandlot
+Wayne's World 2
+The Pelican Brief
 A Perfect World
 Frasier
 Free Willy
 The Remains of the Day
 Indecent Proposal
-Benny & Joon
 Dennis the Menace
 Rudy
+Benny & Joon
+The Age of Innocence
+Star Trek: Deep Space Nine
+Menace II Society
+Coneheads
 Kalifornia
 The Wrong Trousers
-Coneheads
-The Three Musketeers
-Menace II Society
 Alive
+The Three Musketeers
 Dave
-Super Mario Bros.
-Star Trek: Deep Space Nine
 Sister Act 2: Back in the Habit
 The Shawshank Redemption
 Pulp Fiction
@@ -710,76 +710,76 @@ Speed
 Interview with the Vampire: The Vampire Chronicles
 Ace Ventura: Pet Detective
 True Lies
-Clerks
 Natural Born Killers
+Clerks
 Stargate
-Ed Wood
 The Crow
+Ed Wood
 Legends of the Fall
 Four Weddings and a Funeral
 Maverick
 Naked Gun 33 1/3: The Final Insult
 The Santa Clause
-Clear and Present Danger
 Three Colors: Red
+Clear and Present Danger
 The Hudsucker Proxy
+Star Trek: Generations
 Beverly Hills Cop III
-Star Trek Generations
 The Flintstones
 Street Fighter
 Junior
 Quiz Show
-The Specialist
-Ri¢hie Ri¢h
-Heavenly Creatures
+Richie Rich
 Three Colors: White
-The Client
-In the Mouth of Madness
+The Specialist
 Chungking Express
+The Client
+Heavenly Creatures
 Shallow Grave
 Timecop
 Wolf
-Mary Shelley's Frankenstein
-New Nightmare
-ER
-Don Juan DeMarco
-Andaz Apna Apna
 Little Women
+Mary Shelley's Frankenstein
+Wes Craven's New Nightmare
+ER
+Andaz Apna Apna
+Don Juan DeMarco
 The Adventures of Priscilla, Queen of the Desert
-Airheads
 Disclosure
+Airheads
+Reality Bites
 Se7en
 The Usual Suspects
 Braveheart
 Toy Story
-Twelve Monkeys
+12 Monkeys
 Heat
 Casino
-Die Hard: With a Vengeance
+Die Hard with a Vengeance
 Jumanji
-Apollo 13
 Before Sunrise
+Apollo 13
+Bad Boys
 GoldenEye
 Batman Forever
-Bad Boys
 Ace Ventura: When Nature Calls
+Clueless
 Waterworld
 Desperado
-Clueless
 Pocahontas
 La Haine
 Billy Madison
 Ghost in the Shell
-Mallrats
-Babe
 Casper
+Outbreak
+Babe
+Mallrats
 Leaving Las Vegas
 Judge Dredd
-Outbreak
-The Basketball Diaries
 Mortal Kombat
-Crimson Tide
 Sense and Sensibility
+The Basketball Diaries
+Crimson Tide
 Friday
 Four Rooms
 While You Were Sleeping
@@ -787,17 +787,17 @@ Dead Man
 Dead Man Walking
 The Quick and the Dead
 Assassins
-Get Shorty
 Tommy Boy
-Species
+Get Shorty
 Pride and Prejudice
+Species
 Kids
 The Bridges of Madison County
 First Knight
 Strange Days
 Johnny Mnemonic
-The City of Lost Children
 Hackers
+The City of Lost Children
 Trainspotting
 Fargo
 Independence Day
@@ -809,45 +809,45 @@ Jerry Maguire
 Mars Attacks!
 Romeo + Juliet
 Happy Gilmore
+Primal Fear
 Sleepers
 The English Patient
-Primal Fear
 Twister
-The Cable Guy
 Space Jam
+The Cable Guy
 The Hunchback of Notre Dame
 A Time to Kill
 Matilda
 Ransom
 Star Trek: First Contact
-The Nutty Professor
 Dragon Ball Z
+The Nutty Professor
 Eraser
 101 Dalmatians
 DragonHeart
-Broken Arrow
 Jingle All the Way
+Broken Arrow
 The People vs. Larry Flynt
 Sling Blade
 The Frighteners
 The Birdcage
+The Craft
 Kingpin
 Swingers
 Phenomenon
-The Craft
 The Long Kiss Goodnight
-Bottle Rocket
 Escape from L.A.
+Bottle Rocket
 Daylight
 Everybody Loves Raymond
-Breaking the Waves
-That Thing You Do!
-James and the Giant Peach
 The Bandit
-Jack
+That Thing You Do!
+Breaking the Waves
+James and the Giant Peach
 The Ghost and the Darkness
+Jack
 Last Man Standing
-Shine
+Crash
 Titanic
 Good Will Hunting
 Life Is Beautiful
@@ -857,29 +857,29 @@ The Fifth Element
 The Lost World: Jurassic Park
 Face/Off
 The Game
+Princess Mononoke
 The Devil's Advocate
 South Park
-Princess Mononoke
 Jackie Brown
-Gattaca
 Liar Liar
-Con Air
+Gattaca
 Donnie Brasco
+Con Air
 As Good as It Gets
 Starship Troopers
 Contact
 Boogie Nights
 Batman & Robin
-Alien Resurrection
+Alien: Resurrection
 Austin Powers: International Man of Mystery
 Cube
 Hercules
 Tomorrow Never Dies
 Air Force One
-Scream 2
 Event Horizon
-Chasing Amy
+Scream 2
 I Know What You Did Last Summer
+Chasing Amy
 Lost Highway
 Buffy the Vampire Slayer
 My Best Friend's Wedding
@@ -889,15 +889,15 @@ The Jackal
 Home Alone 3
 The Full Monty
 Bean
-Conspiracy Theory
 Anaconda
-Grosse Pointe Blank
+Conspiracy Theory
 Oz
+Grosse Pointe Blank
 Cop Land
 Flubber
 Stargate SG-1
-Wag the Dog
 Dante's Peak
+Wag the Dog
 Saving Private Ryan
 American History X
 The Truman Show
@@ -907,27 +907,27 @@ Armageddon
 There's Something About Mary
 A Bug's Life
 Fear and Loathing in Las Vegas
-Blade
 Mulan
+Blade
 Rush Hour
 Enemy of the State
-Shakespeare in Love
 Meet Joe Black
+Shakespeare in Love
+You've Got Mail
 Run Lola Run
 Dark City
-You've Got Mail
 Godzilla
+The Thin Red Line
 Ronin
 Pi
-The Thin Red Line
-Rushmore
 The Mask of Zorro
+Rushmore
 Deep Impact
 The Man in the Iron Mask
-Lethal Weapon 4
 That '70s Show
-Antz
+Lethal Weapon 4
 The Waterboy
+Antz
 Rounders
 The Wedding Singer
 The Negotiator
@@ -938,15 +938,15 @@ City of Angels
 The Faculty
 Wild Things
 Sex and the City
-The X Files
 Patch Adams
 What Dreams May Come
+The X Files
 Sphere
 U.S. Marshals
+Elizabeth
 Small Soldiers
 Doctor Dolittle
-Elizabeth
-Out of Sight
+Cowboy Bebop
 Following
 Fight Club
 The Matrix
@@ -961,38 +961,38 @@ Sleepy Hollow
 Being John Malkovich
 Family Guy
 Eyes Wide Shut
-Magnolia
 10 Things I Hate About You
 The Sopranos
+Magnolia
 Notting Hill
 Office Space
-The Boondock Saints
 The Blair Witch Project
+The Boondock Saints
 Austin Powers: The Spy Who Shagged Me
-Dogma
 Futurama
+Dogma
+Tarzan
 Big Daddy
 South Park: Bigger, Longer & Uncut
-Tarzan
 The World Is Not Enough
-Cruel Intentions
 The Talented Mr. Ripley
+Cruel Intentions
 The Iron Giant
 The Ninth Gate
+Girl, Interrupted
 Three Kings
 The Insider
-Girl, Interrupted
-Wild Wild West
 The Bone Collector
+Wild Wild West
 Galaxy Quest
 Analyze This
 The Virgin Suicides
 Payback
 Freaks and Geeks
+Stuart Little
+Deep Blue Sea
 Man on the Moon
 8MM
-Deep Blue Sea
-Stuart Little
 The 13th Warrior
 Any Given Sunday
 Bicentennial Man
@@ -1006,102 +1006,102 @@ X-Men
 Cast Away
 American Psycho
 Unbreakable
-Meet the Parents
 Mission: Impossible II
+Meet the Parents
 O Brother, Where Art Thou?
 Gone in 60 Seconds
-Crouching Tiger, Hidden Dragon
 The Patriot
+Crouching Tiger, Hidden Dragon
 Almost Famous
 Scary Movie
-Pitch Black
 Final Destination
-Me, Myself & Irene
-The Beach
+Pitch Black
 Amores Perros
-Traffic
-Remember the Titans
+The Beach
+Me, Myself & Irene
 How the Grinch Stole Christmas
+Remember the Titans
+Traffic
 What Women Want
 Miss Congeniality
+The Emperor's New Groove
 Chocolat
 Chicken Run
 Charlie's Angels
-The Emperor's New Groove
-Battle Royale
 Erin Brockovich
+Battle Royale
 High Fidelity
 Road Trip
 The Perfect Storm
 Dude, Where's My Car?
 Billy Elliot
-Hollow Man
 Scream 3
+Hollow Man
+In the Mood for Love
 Shanghai Noon
-The 6th Day
 What Lies Beneath
+The 6th Day
 Malcolm in the Middle
 Pay It Forward
-In the Mood for Love
 The Whole Nine Yards
-Coyote Ugly
 Men of Honor
+Coyote Ugly
 The Family Man
-Frequency
+Dancer in the Dark
 The Lord of the Rings: The Fellowship of the Ring
 A Beautiful Mind
 Monsters, Inc.
 Donnie Darko
 Amélie
 Harry Potter and the Sorcerer's Stone
-Shrek
 Spirited Away
+Shrek
 Ocean's Eleven
 Training Day
+Band of Brothers
 Black Hawk Down
 The Fast and the Furious
-Band of Brothers
 The Others
-Pearl Harbor
 Mulholland Drive
+Pearl Harbor
 The Mummy Returns
-A.I. Artificial Intelligence
 Jurassic Park III
+A.I. Artificial Intelligence
 Moulin Rouge!
 The Royal Tenenbaums
 Hannibal
 Vanilla Sky
 Zoolander
-American Pie 2
 Enemy at the Gates
 Blow
+American Pie 2
 Scrubs
 Bridget Jones's Diary
 Planet of the Apes
-Lara Croft: Tomb Raider
 Rush Hour 2
+Lara Croft: Tomb Raider
+Legally Blonde
 Swordfish
 K-PAX
-Legally Blonde
-24
 A Knight's Tale
+24
+Scary Movie 2
 Jay and Silent Bob Strike Back
 From Hell
-Scary Movie 2
-I Am Sam
 Spy Game
-Shallow Hal
+I Am Sam
 The Princess Diaries
+Shallow Hal
 The Score
-Evolution
 Six Feet Under
+Evolution
 Smallville
 Y Tu Mamá También
 Ghost World
 The Lord of the Rings: The Two Towers
 Catch Me If You Can
-City of God
 The Pianist
+City of God
 Spider-Man
 Star Wars: Episode II - Attack of the Clones
 Harry Potter and the Chamber of Secrets
@@ -1110,55 +1110,55 @@ Minority Report
 Ice Age
 Gangs of New York
 28 Days Later...
-Signs
 Men in Black II
+Signs
 The Ring
 Equilibrium
 The Transporter
-Insomnia
 The Wire
+Insomnia
 Panic Room
-Phone Booth
 Red Dragon
-Resident Evil
+Phone Booth
 8 Mile
+Resident Evil
 Road to Perdition
 Firefly
 Chicago
 Die Another Day
-A Walk to Remember
 Blade II
+A Walk to Remember
 Austin Powers in Goldmember
-xXx
-Hero
 Adaptation.
-25th Hour
+Hero
+xXx
 About a Boy
+25th Hour
 Lilo & Stitch
-Bowling for Columbine
 Punch-Drunk Love
+Bowling for Columbine
 Mr. Deeds
 The Scorpion King
 We Were Soldiers
 The Count of Monte Cristo
 Reign of Fire
-About Schmidt
 The Hours
 John Q
+About Schmidt
 My Big Fat Greek Wedding
+Irreversible
 The Time Machine
-Infernal Affairs
 The Lord of the Rings: The Return of the King
 Pirates of the Caribbean: The Curse of the Black Pearl
 Kill Bill: Vol. 1
 Finding Nemo
-X2: X-Men United
 The Matrix Reloaded
+X-Men 2
 Oldboy
 The Matrix Revolutions
-Big Fish
-Mystic River
 Love Actually
+Mystic River
+Big Fish
 Lost in Translation
 The Last Samurai
 Terminator 3: Rise of the Machines
@@ -1166,18 +1166,18 @@ Bruce Almighty
 The Italian Job
 Arrested Development
 School of Rock
-Hulk
 Underworld
+Hulk
 2 Fast 2 Furious
 Two and a Half Men
-21 Grams
-Identity
 Bad Boys II
+Identity
+21 Grams
+Elf
 Old School
+How to Lose a Guy in 10 Days
 Daredevil
 Anger Management
-Elf
-How to Lose a Guy in 10 Days
 Master and Commander: The Far Side of the World
 American Wedding
 The League of Extraordinary Gentlemen
@@ -1188,22 +1188,22 @@ Cold Mountain
 S.W.A.T.
 Good Bye Lenin!
 Scary Movie 3
-Bad Santa
 Dogville
 Monster
-The Recruit
+Memories of Murder
+Bad Santa
 The Texas Chainsaw Massacre
 Lara Croft Tomb Raider: The Cradle of Life
-Matchstick Men
+The Recruit
 Freaky Friday
+Matchstick Men
 Charlie's Angels: Full Throttle
-NCIS
 Eternal Sunshine of the Spotless Mind
 Kill Bill: Vol. 2
 The Incredibles
 Million Dollar Baby
-Spider-Man 2
 Harry Potter and the Prisoner of Azkaban
+Spider-Man 2
 The Notebook
 Shaun of the Dead
 I, Robot
@@ -1212,8 +1212,8 @@ Troy
 The Butterfly Effect
 The Bourne Supremacy
 Crash
-The Day After Tomorrow
 Shrek 2
+The Day After Tomorrow
 House
 The Terminal
 Saw
@@ -1221,33 +1221,33 @@ Collateral
 Ocean's Twelve
 The Machinist
 Hotel Rwanda
-Anchorman: The Legend of Ron Burgundy
 The Aviator
-Man on Fire
-Downfall
-50 First Dates
 Mean Girls
+Downfall
+Anchorman: The Legend of Ron Burgundy
+Man on Fire
+Howl's Moving Castle
+50 First Dates
 Hellboy
 National Treasure
-Howl's Moving Castle
 Meet the Fockers
 Van Helsing
 The Village
 Dawn of the Dead
-Dodgeball: A True Underdog Story
 Before Sunset
-The Chronicles of Riddick
+Dodgeball
 The Passion of the Christ
+The Chronicles of Riddick
 Garden State
-Finding Neverland
-The Girl Next Door
 Closer
-Lemony Snicket's A Series of Unfortunate Events
+The Girl Next Door
+Finding Neverland
 Napoleon Dynamite
+A Series of Unfortunate Events
 EuroTrip
 Resident Evil: Apocalypse
 Alien vs. Predator
-Harold & Kumar Go to White Castle
+Secret Window
 Batman Begins
 V for Vendetta
 Sin City
@@ -1258,45 +1258,45 @@ Prison Break
 Mr. & Mrs. Smith
 Charlie and the Chocolate Factory
 War of the Worlds
-King Kong
 The 40-Year-Old Virgin
+The Office
+King Kong
 Supernatural
 The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
 Madagascar
 Wedding Crashers
 Brokeback Mountain
 Fantastic Four
-The Office
-The Island
-Lord of War
-Hitch
 Constantine
+The Island
+Hitch
+Lord of War
 Serenity
 Kingdom of Heaven
 Pride & Prejudice
-Corpse Bride
-Saw II
 Grey's Anatomy
+Corpse Bride
+Avatar: The Last Airbender
 Walk the Line
+Saw II
 A History of Violence
-Thank You for Smoking
 Kiss Kiss Bang Bang
+Thank You for Smoking
 Munich
 Match Point
-Avatar: The Last Airbender
 The Descent
 Doctor Who
 Transporter 2
-The Hitchhiker's Guide to the Galaxy
 It's Always Sunny in Philadelphia
+The Hitchhiker's Guide to the Galaxy
 Cinderella Man
 Jarhead
 Hostel
 The Longest Yard
-Hard Candy
-Flightplan
-Rome
 Criminal Minds
+Hard Candy
+Rome
+Flightplan
 Green Street Hooligans
 The Departed
 The Prestige
@@ -1309,66 +1309,66 @@ Casino Royale
 Blood Diamond
 X-Men: The Last Stand
 Children of Men
-Little Miss Sunshine
 The Pursuit of Happyness
+Little Miss Sunshine
 The Da Vinci Code
-The Devil Wears Prada
-The Illusionist
 Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan
+The Devil Wears Prada
 Cars
 The Lives of Others
+The Illusionist
 Inside Man
 Mission: Impossible III
-Lucky Number Slevin
 Night at the Museum
 Click
+Lucky Number Slevin
 Deja Vu
-Babel
 Apocalypto
+Babel
 Superman Returns
 Ice Age: The Meltdown
-Crank
 The Holiday
-Perfume: The Story of a Murderer
 The Fast and the Furious: Tokyo Drift
+Perfume: The Story of a Murderer
+Crank
 Heroes
 The Fountain
+Death Note
 Stranger Than Fiction
 Silent Hill
 Rocky Balboa
-Death Note
 Underworld: Evolution
 Saw III
 The Last King of Scotland
 Happy Feet
 Talladega Nights: The Ballad of Ricky Bobby
-The Hills Have Eyes
 Planet Earth
 Over the Hedge
+The Hills Have Eyes
 Letters from Iwo Jima
 She's the Man
 Idiocracy
 No Country for Old Men
 I Am Legend
-The Bourne Ultimatum
 Ratatouille
+The Bourne Ultimatum
 Transformers
 Pirates of the Caribbean: At World's End
 Into the Wild
 Superbad
-Juno
 There Will Be Blood
-Spider-Man 3
 Harry Potter and the Order of the Phoenix
+Spider-Man 3
+Juno
 Hot Fuzz
 Zodiac
-Live Free or Die Hard
 American Gangster
+Live Free or Die Hard
 Knocked Up
 Sweeney Todd: The Demon Barber of Fleet Street
 Ocean's Thirteen
-The Simpsons Movie
 Shooter
+The Simpsons Movie
 3:10 to Yuma
 The Mist
 Shrek the Third
@@ -1380,24 +1380,24 @@ Fantastic 4: Rise of the Silver Surfer
 Gone Baby Gone
 Atonement
 Sunshine
-Eastern Promises
 The Bucket List
+Eastern Promises
 Ghost Rider
 Paranormal Activity
 Disturbia
 National Treasure: Book of Secrets
+Mad Men
 P.S. I Love You
 Planet Terror
 The Number 23
-Mad Men
-Resident Evil: Extinction
-Grindhouse
 Fracture
-The Golden Compass
+Resident Evil: Extinction
 The Darjeeling Limited
+The Golden Compass
+Grindhouse
 Enchanted
-Californication
 The Man from Earth
+Californication
 The Dark Knight
 Breaking Bad
 WALL·E
@@ -1423,79 +1423,79 @@ Burn After Reading
 The Wrestler
 Jumper
 Seven Pounds
-Forgetting Sarah Marshall
 Step Brothers
-Hellboy II: The Golden Army
+Forgetting Sarah Marshall
 Sons of Anarchy
+Hellboy II: The Golden Army
 Vicky Cristina Barcelona
 Changeling
 RocknRolla
-True Blood
 The Reader
-Valkyrie
 21
+True Blood
+Valkyrie
 Role Models
 Fringe
 Rambo
+Mamma Mia!
 Body of Lies
 Ip Man
 Let the Right One In
-Mamma Mia!
+Madagascar: Escape 2 Africa
 Get Smart
 Death Race
-The Happening
-Madagascar: Escape 2 Africa
-The Chronicles of Narnia: Prince Caspian
 Revolutionary Road
+The Happening
+The Chronicles of Narnia: Prince Caspian
 You Don't Mess with the Zohan
 Inglourious Basterds
 Avatar
 Up
 The Hangover
 District 9
-Star Trek
 Sherlock Holmes
+Star Trek
 Zombieland
 Watchmen
 500 Days of Summer
-X-Men Origins: Wolverine
 Harry Potter and the Half-Blood Prince
+X-Men Origins: Wolverine
 Transformers: Revenge of the Fallen
 2012
-Terminator Salvation
 Modern Family
+Terminator Salvation
+3 Idiots
 Moon
 Up in the Air
-3 Idiots
 The Proposal
 The Blind Side
-The Vampire Diaries
 Public Enemies
+The Vampire Diaries
 Angels & Demons
 Law Abiding Citizen
 The Twilight Saga: New Moon
 Fast & Furious
 Hachi: A Dog's Tale
-Knowing
 The Road
 Ice Age: Dawn of the Dinosaurs
-The Girl with the Dragon Tattoo
+Knowing
 Mr. Nobody
-G.I. Joe: The Rise of Cobra
+Community
+The Girl with the Dragon Tattoo
+Parks and Recreation
 The Ugly Truth
 Cloudy with a Chance of Meatballs
-I Love You, Man
-Coraline
-Drag Me to Hell
+G.I. Joe: The Rise of Cobra
 Fantastic Mr. Fox
-Parks and Recreation
-Orphan
-Community
-The Taking of Pelham 123
+Coraline
+I Love You, Man
 The Secret in Their Eyes
+Orphan
+Drag Me to Hell
+The Taking of Pelham 123
 17 Again
-Surrogates
 Night at the Museum: Battle of the Smithsonian
+Surrogates
 Mary and Max
 He's Just Not That Into You
 Inception
@@ -1515,24 +1515,24 @@ Tangled
 Alice in Wonderland
 Scott Pilgrim vs. the World
 Easy A
-127 Hours
 The Town
+127 Hours
 The Fighter
 The Expendables
 Due Date
 TRON: Legacy
 True Grit
 Salt
-RED
 The Book of Eli
-Clash of the Titans
-Prince of Persia: The Sands of Time
+RED
 Insidious
+Prince of Persia: The Sands of Time
+Clash of the Titans
 Robin Hood
 The A-Team
 The Other Guys
-The Twilight Saga: Eclipse
 Grown Ups
+The Twilight Saga: Eclipse
 Megamind
 The Tourist
 Spartacus
@@ -1540,18 +1540,18 @@ Predators
 Machete
 Unstoppable
 Blue Valentine
-Knight and Day
+Shrek Forever After
 The Next Three Days
 Love & Other Drugs
-Shrek Forever After
+Knight and Day
 Percy Jackson & the Olympians: The Lightning Thief
-Get Him to the Greek
 Boardwalk Empire
-Hot Tub Time Machine
+Get Him to the Greek
+Tucker and Dale vs Evil
 Game of Thrones
 Harry Potter and the Deathly Hallows: Part 2
-Thor
 The Intouchables
+Thor
 Captain America: The First Avenger
 X-Men: First Class
 Drive
@@ -1563,41 +1563,41 @@ Crazy, Stupid, Love.
 The Hangover Part II
 Mission: Impossible - Ghost Protocol
 Warrior
+Black Mirror
+The Help
 Horrible Bosses
 Sherlock Holmes: A Game of Shadows
-The Help
 The Girl with the Dragon Tattoo
-Transformers: Dark of the Moon
 Midnight in Paris
-In Time
+Transformers: Dark of the Moon
 The Cabin in the Woods
-Fast Five
-Suits
+In Time
 Moneyball
-Super 8
-Black Mirror
+Suits
+Fast Five
 Friends with Benefits
+Super 8
 50/50
+Homeland
 Hugo
 Real Steel
-Homeland
-Green Lantern
-Bridesmaids
+Contagion
 American Horror Story
-Unknown
-The Grey
+Bridesmaids
+Green Lantern
 Kung Fu Panda 2
+Unknown
 The Adjustment Bureau
-The Descendants
+The Grey
+Rango
 Paul
+The Descendants
+The Artist
 Sucker Punch
 I Am Number Four
-The Artist
-Rango
 The Twilight Saga: Breaking Dawn - Part 1
-The Ides of March
-The Adventures of Tintin
-Contagion
+Just Go with It
+A Separation
 The Dark Knight Rises
 Django Unchained
 The Avengers
@@ -1605,10 +1605,10 @@ The Hunger Games
 The Hobbit: An Unexpected Journey
 Silver Linings Playbook
 Skyfall
-Prometheus
-Ted
 Life of Pi
 Argo
+Ted
+Prometheus
 The Amazing Spider-Man
 Looper
 21 Jump Street
@@ -1625,87 +1625,87 @@ Jack Reacher
 The Expendables 2
 Taken 2
 The Bourne Legacy
-Snow White and the Huntsman
-Pitch Perfect
-Zero Dark Thirty
-The Dictator
 The Hunt
+The Dictator
+Pitch Perfect
+Snow White and the Huntsman
+Zero Dark Thirty
 John Carter
 Dredd
 Dark Shadows
-Chronicle
-Lincoln
-Total Recall
 The Place Beyond the Pines
-Battleship
+Lincoln
 Seven Psychopaths
+Total Recall
+Chronicle
+Battleship
 The Twilight Saga: Breaking Dawn - Part 2
-Lawless
 End of Watch
+Lawless
 Hotel Transylvania
 Sinister
 Safe House
 American Reunion
-Project X
 The Impossible
+Ice Age: Continental Drift
 The Wolf of Wall Street
 Gravity
 Iron Man 3
 Man of Steel
 12 Years a Slave
 The Hunger Games: Catching Fire
-The Hobbit: The Desolation of Smaug
 World War Z
+The Hobbit: The Desolation of Smaug
 Now You See Me
-Thor: The Dark World
 Prisoners
+Thor: The Dark World
 Frozen
 Her
 Oblivion
-Star Trek Into Darkness
-Pacific Rim
 The Great Gatsby
+Pacific Rim
+Star Trek Into Darkness
 House of Cards
 American Hustle
-Dallas Buyers Club
-The Wolverine
 The Conjuring
-Elysium
+Dallas Buyers Club
 Rush
+The Wolverine
+Elysium
 Captain Phillips
+Vikings
 We're the Millers
 This Is the End
-Fast & Furious 6
 Despicable Me 2
-Vikings
-Monsters University
-The Secret Life of Walter Mitty
+Fast & Furious 6
 Rick and Morty
-The Hangover Part III
+Peaky Blinders
+Monsters University
+Snowpiercer
 About Time
+The Secret Life of Walter Mitty
+The Hangover Part III
 Orange Is the New Black
 Lone Survivor
-Kick-Ass 2
-Snowpiercer
-Olympus Has Fallen
 The World's End
+Olympus Has Fallen
+Kick-Ass 2
 Don Jon
-Ender's Game
 Escape Plan
+Hannibal
+Ender's Game
 The Lone Ranger
 Warm Bodies
-Hannibal
-Peaky Blinders
+Brooklyn Nine-Nine
 Gangster Squad
-Oz the Great and Powerful
 Interstellar
 Guardians of the Galaxy
 Gone Girl
 Captain America: The Winter Soldier
+Whiplash
 The Grand Budapest Hotel
 The Imitation Game
 X-Men: Days of Future Past
-Whiplash
 Edge of Tomorrow
 Kingsman: The Secret Service
 Birdman or (The Unexpected Virtue of Ignorance)
@@ -1717,184 +1717,234 @@ Nightcrawler
 Lucy
 American Sniper
 Divergent
-Dawn of the Planet of the Apes
+Fury
 The Amazing Spider-Man 2
 The Maze Runner
-Fury
 The Hunger Games: Mockingjay - Part 1
+Dawn of the Planet of the Apes
 Big Hero 6
 The Theory of Everything
 Godzilla
 22 Jump Street
-Boyhood
-The Fault in Our Stars
 Maleficent
-The Lego Movie
+The Fault in Our Stars
+Boyhood
 The Equalizer
-The Interview
-Transformers: Age of Extinction
-How to Train Your Dragon 2
-The Flash
+The Lego Movie
 Fargo
+The Interview
+The Flash
+How to Train Your Dragon 2
+Transformers: Age of Extinction
 Neighbors
 300: Rise of an Empire
+Predestination
 Non-Stop
 Noah
-Predestination
-RoboCop
 Transcendence
-Gotham
-Teenage Mutant Ninja Turtles
-It Follows
+RoboCop
 The 100
-Chef
-Star Wars: Episode VII - The Force Awakens
+Gotham
+It Follows
+Teenage Mutant Ninja Turtles
+The Babadook
 Mad Max: Fury Road
+Star Wars: Episode VII - The Force Awakens
 The Martian
 Avengers: Age of Ultron
 The Revenant
-Jurassic World
 Inside Out
+Jurassic World
 Ant-Man
 The Hateful Eight
 Spotlight
 Spectre
-Furious 7
-Daredevil
 Sicario
 Room
-Mission: Impossible - Rogue Nation
+Daredevil
+Furious 7
 The Big Short
 Narcos
-Fifty Shades of Grey
+Mission: Impossible - Rogue Nation
 Mr. Robot
+Better Call Saul
+Fifty Shades of Grey
 Bridge of Spies
 The Hunger Games: Mockingjay - Part 2
-Better Call Saul
 The Man from U.N.C.L.E.
 Terminator Genisys
 Creed
-Spy
 Chappie
+Spy
 Maze Runner: The Scorch Trials
-Southpaw
-Insurgent
-Minions
-San Andreas
-Focus
 The Intern
+The Divergent Series: Insurgent
+Southpaw
+Focus
 The Lobster
+San Andreas
+Minions
+The Witch
 Everest
 Jessica Jones
-Jupiter Ascending
 Ted 2
 Straight Outta Compton
+Jupiter Ascending
 Tomorrowland
 Black Mass
-The Witch
-Lucifer
 The Danish Girl
 Cinderella
-Fantastic Four
-The Age of Adaline
 Legend
+The Age of Adaline
+Steve Jobs
+Fantastic Four
 Deadpool
 Stranger Things
 Captain America: Civil War
 Batman v Superman: Dawn of Justice
 Suicide Squad
-Arrival
 Doctor Strange
+Arrival
 Rogue One: A Star Wars Story
 La La Land
 Zootopia
 Hacksaw Ridge
-Fantastic Beasts and Where to Find Them
-Split
-X-Men: Apocalypse
 Westworld
+Split
+Fantastic Beasts and Where to Find Them
+X-Men: Apocalypse
 Passengers
 10 Cloverfield Lane
-The Jungle Book
 The Nice Guys
-The Accountant
 Moonlight
-Warcraft: The Beginning
 Moana
+The Jungle Book
+The Accountant
 Now You See Me 2
 Manchester by the Sea
+Warcraft
 Finding Dory
-Star Trek Beyond
 Nocturnal Animals
 Sully
+Star Trek Beyond
 The Conjuring 2
-Jason Bourne
-Ghostbusters
+Lucifer
 Don't Breathe
 Lion
- Game of Thrones
-Hell or High Water
+Jason Bourne
 Me Before You
+Ghostbusters
+Hell or High Water
 Hidden Figures
-The Magnificent Seven
-Assassin's Creed
-The Promise
-The Secret Life of Pets
+ Game of Thrones
+Your Name.
 Captain Fantastic
-Sausage Party
-Independence Day: Resurgence
+Assassin's Creed
+The Magnificent Seven
+The Secret Life of Pets
 War Dogs
+Sausage Party
+The Promise
 The Girl on the Train
+Independence Day: Resurgence
 The Legend of Tarzan
-Miss Peregrine's Home for Peculiar Children
-Inferno
 Logan
-Wonder Woman
-Guardians of the Galaxy Vol. 2
 Thor: Ragnarok
+Guardians of the Galaxy Vol. 2
+Star Wars: Episode VIII - The Last Jedi
 Dunkirk
-Star Wars: The Last Jedi
+Wonder Woman
 Spider-Man: Homecoming
 Get Out
+It
 Blade Runner 2049
 Baby Driver
-It
 Three Billboards Outside Ebbing, Missouri
 Justice League
+Coco
 The Shape of Water
 John Wick: Chapter 2
-Coco
 Jumanji: Welcome to the Jungle
+Money Heist
 Beauty and the Beast
-Kong: Skull Island
 Kingsman: The Golden Circle
+Dark
+Kong: Skull Island
 Pirates of the Caribbean: Dead Men Tell No Tales
 Alien: Covenant
 13 Reasons Why
-War for the Planet of the Apes
+Lady Bird
 The Greatest Showman
+War for the Planet of the Apes
+Murder on the Orient Express
+Mindhunter
+Call Me by Your Name
 Life
 The Fate of the Furious
-Murder on the Orient Express
-Lady Bird
+Wind River
 Ghost in the Shell
 King Arthur: Legend of the Sword
-Wind River
-The Hitman's Bodyguard
 Mother!
-The Mummy
-Call Me by Your Name
-Atomic Blonde
+The Hitman's Bodyguard
 The Punisher
-Bright
 I, Tonya
+Ozark
+Atomic Blonde
+The Mummy
+Darkest Hour
+Bright
+The Handmaid's Tale
 Valerian and the City of a Thousand Planets
 Baywatch
-Darkest Hour
 American Made
-Money Heist
-Mindhunter
-Transformers: The Last Knight
-The Handmaid's Tale
-The Lego Batman Movie
-The Disaster Artist
+Big Little Lies
+Avengers: Infinity War
+Black Panther
+Deadpool 2
+Bohemian Rhapsody
+A Quiet Place
+Ready Player One
+Aquaman
+Green Book
+Venom
+Spider-Man: Into the Spider-Verse
+A Star Is Born
+Ant-Man and the Wasp
+Mission: Impossible - Fallout
+Solo: A Star Wars Story
+Annihilation
+Bird Box
+Jurassic World: Fallen Kingdom
+Incredibles 2
+Hereditary
+Fantastic Beasts: The Crimes of Grindelwald
+BlacKkKlansman
+Game Night
+Tomb Raider
+Ocean's 8
+The Haunting of Hill House
+The Favourite
+First Man
+Red Sparrow
+Upgrade
+The Meg
+Rampage
+Altered Carbon
+Crazy Rich Asians
+Roma
+Searching
+Isle of Dogs
+You
+Bumblebee
+The Equalizer 2
+Ralph Breaks the Internet
+Bad Times at the El Royale
+A Simple Favor
+Sicario: Day of the Soldado
+Halloween
+The Ballad of Buster Scruggs
+Vice
+The Nun
+The Predator
+Tag
+Black Mirror: Bandersnatch

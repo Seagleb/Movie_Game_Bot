@@ -82,7 +82,7 @@ Answer:
 The Big Lebowski
 ```
 
-I also wanted to practice Web Scraping and needed a platform to interact with the game and figured practice with chat bots wouldn't hurt either.
+I also wanted to practice web scraping and needed a platform to interact with the game and figured practice with chat bots wouldn't hurt either.
 This game can be played with friends in a discord server you are an administrator of.
 
 ### Built With
@@ -101,7 +101,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Install these Python modules
 * Beautiful Soup
 ```sh
 pip install bs4
@@ -118,7 +118,7 @@ pip install discord.py
 ```sh
 git clone https://github.com/Seagleb/Movie_Game_Bot.git
 ```
-2. Install Python packages
+2. Install Python modules
 3. Follow [these](https://realpython.com/how-to-make-a-discord-bot-python/) instructions to create the discord bot to retrieve a token
 4. Edit the .env to include the discord bot token and server name
 
@@ -127,9 +127,8 @@ git clone https://github.com/Seagleb/Movie_Game_Bot.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-If you would like to update the movie list you can run scraper.py which collects the first page's worth of the top movies from every year between 1980-2019 which is editable from scraper.py
-
 Run bot.py to get started
+
 
 Current commands are:
 ```sh
@@ -137,6 +136,7 @@ Current commands are:
 !points
 !giveup
 ```
+If you would like to update the movie list you can run scraper.py which collects the first page's worth of the top movies from every year between 1980-2019 which is editable from scraper.py
 
 <!-- ROADMAP -->
 ## Roadmap

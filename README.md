@@ -33,14 +33,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Seagleb/Movie_Game_Bot">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Discord Movie Bot</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Movie Scramble game for Discord Bot
     <br />
     <a href="https://github.com/Seagleb/Movie_Game_Bot"><strong>Explore the docs »</strong></a>
     <br />
@@ -78,10 +75,12 @@
 Inspiration for this project came from deployments in the Navy.  It was a fun game we would play where we would just scramble up some letters and write the blanks for others on watch to unscramble.
 
 Example:
+```sh
 eth bgi eoiklbws
 ---/---/--------
 Answer:
 The Big Lebowski
+```
 
 I also wanted to practice Web Scraping and needed a platform to interact with the game and figured practice with chat bots wouldn't hurt either.
 This game can be played with friends in a discord server you are an administrator of.

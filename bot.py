@@ -47,16 +47,18 @@ async def on_message(message):
         for guild in client.guilds:
             if guild.name == GUILD:
                 break
-        for member in guild.members:
-            print(member)
-            points[member] = 0
 
-    if message.content == game_session.sanitized_title:
+    if message.content.lower() == game_session.sanitized_title:
         await message.channel.send("Correct!")
-        print(message.author)
-        ##points[message.author] += 1
+        if message.author in points.keys():
+            points[message.author] += 1
+        else:
+            points[message.author] = 1
+        points_message = ""
+        for key in points.keys():
+            points_message += str(key) + ": " + str(points[key]) + "\n"
         await message.channel.send(
-            str(message.author) + " now has " + str(points[message.author]) + " points"
+            points_message
         )
         game_session.newPuzzle()
         await message.channel.send(

@@ -72,7 +72,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Inspiration for this project came from deployments in the Navy.  It was a fun game we would play where we would just scramble up some letters and write the blanks for others on watch to unscramble.
+Simple game where a movie title is scrambled up and you have to guess the movie.
 
 Example:
 ```sh
